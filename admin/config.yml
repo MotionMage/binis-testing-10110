@@ -3,6 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -176,44 +177,244 @@ collections:
             label: Text
             name: 645f0031
             widget: string
-          - hint: 'Original text: Our Work, key: 2a8fa5'
+          - hint: 'Original text: Showcase, key: -10510c33'
             label: Text
-            name: 2a8fa5
+            name: '-10510c33'
             widget: string
-          - hint: 'Original text: We have, key: -5774b4a6'
+          - hint: 'Original text: Workforce, key: -472d59a6'
             label: Text
-            name: '-5774b4a6'
-            widget: string
-          - hint: 'Original text: an amazing, key: c2dcf6a'
-            label: Text
-            name: c2dcf6a
-            widget: string
-          - hint: 'Original text: team of, key: -55cab586'
-            label: Text
-            name: '-55cab586'
-            widget: string
-          - hint: 'Original text: visual artists, key: 5e7ced2c'
-            label: Text
-            name: 5e7ced2c
+            name: '-472d59a6'
             widget: string
           - hint: >-
-              Original text: WhiteApple (WA) was founded in Oct, 2019 with an
-              aim to cater to the media services drilling the gaps that have
-              been into existence from ages and over the period of time have
-              extended far down from the top. The primary objective of
-              WhiteApple is to build a robust network of partners for media
-              production activities be it Post Production, VFX, Creative
-              Services or Digital Media. Servicing being the prima facie of the
-              company the goal is to serve the clients with a seamless
-              experience throughout the process and while our team of experts
-              handle the coordination and analytics part for you. !, key:
-              -60aa94a3
+              Original text: Home to some of the most loved cinemas in the
+              industry, White Apple has been elevating the cinema-viewing
+              experience through avant-garde technology!, key: -6d1aaec5
             label: Text
-            name: '-60aa94a3'
+            name: '-6d1aaec5'
             widget: text
-          - hint: 'Original text: click to know more about us, key: 684e10d4'
+          - hint: 'Original text: In the Spotlight, key: -19d76756'
             label: Text
-            name: 684e10d4
+            name: '-19d76756'
+            widget: string
+          - hint: 'Original text: Projects We have worked on, key: 25b25143'
+            label: Text
+            name: 25b25143
+            widget: string
+          - hint: 'Original text: Laxmi, key: 45ce25f'
+            label: Text
+            name: 45ce25f
+            widget: string
+          - hint: 'Original text: Angrezi Medium, key: 6caf2d9'
+            label: Text
+            name: 6caf2d9
+            widget: string
+          - hint: 'Original text: Malang, key: -77115e5e'
+            label: Text
+            name: '-77115e5e'
+            widget: string
+          - hint: 'Original text: Haathi Mere Saathi , key: 335f0b7c'
+            label: Text
+            name: 335f0b7c
+            widget: string
+          - hint: 'Original text: Simple Murder , key: -452aef75'
+            label: Text
+            name: '-452aef75'
+            widget: string
+          - hint: 'Original text: Junior Toolsidas , key: -4abdadf1'
+            label: Text
+            name: '-4abdadf1'
+            widget: string
+          - hint: 'Original text: Apaharan 2, key: 6a6aa0e6'
+            label: Text
+            name: 6a6aa0e6
+            widget: string
+          - hint: 'Original text: Cartel , key: -7bbbaee7'
+            label: Text
+            name: '-7bbbaee7'
+            widget: string
+          - hint: 'Original text: A Thursday , key: 27733847'
+            label: Text
+            name: '27733847'
+            widget: string
+          - hint: 'Original text: WhistleBlower , key: 4e2a908f'
+            label: Text
+            name: 4e2a908f
+            widget: string
+          - hint: 'Original text: Faraaz , key: 22ee527d'
+            label: Text
+            name: 22ee527d
+            widget: string
+          - hint: 'Original text: Bhool Bhulaiyaa 2, key: -19d813d4'
+            label: Text
+            name: '-19d813d4'
+            widget: string
+          - hint: 'Original text: Antim , key: 752f6c55'
+            label: Text
+            name: 752f6c55
+            widget: string
+          - hint: 'Original text: Ranjish Hi Sahi, key: -5a3dcf3f'
+            label: Text
+            name: '-5a3dcf3f'
+            widget: string
+          - hint: 'Original text: Nazarandaz , key: 2cbabb48'
+            label: Text
+            name: 2cbabb48
+            widget: string
+          - hint: 'Original text: Faadu , key: 7cf7c109'
+            label: Text
+            name: 7cf7c109
+            widget: string
+          - hint: 'Original text: Jehanabad , key: 1c2b2d82'
+            label: Text
+            name: 1c2b2d82
+            widget: string
+          - hint: 'Original text: Rangbaaz 3, key: 5972513'
+            label: Text
+            name: '5972513'
+            widget: string
+          - hint: 'Original text: LakadBhaggha, key: -15aabd25'
+            label: Text
+            name: '-15aabd25'
+            widget: string
+          - hint: 'Original text: Kisi ka bhai kisi ki Jaan, key: 23cf154e'
+            label: Text
+            name: 23cf154e
+            widget: string
+          - hint: 'Original text: Salaam Venky, key: 4409e99c'
+            label: Text
+            name: 4409e99c
+            widget: string
+          - hint: 'Original text: Gandhi vs Godhse, key: -52d95a8e'
+            label: Text
+            name: '-52d95a8e'
+            widget: string
+          - hint: 'Original text: Magic of Shiri (Jio), key: -5447f90a'
+            label: Text
+            name: '-5447f90a'
+            widget: string
+          - hint: 'Original text: Tiku Weds Sheru , key: -172fab1'
+            label: Text
+            name: '-172fab1'
+            widget: string
+          - hint: 'Original text: Cadets , key: -7c87905e'
+            label: Text
+            name: '-7c87905e'
+            widget: string
+          - hint: 'Original text: Jengabaru, key: 47d456cf'
+            label: Text
+            name: 47d456cf
+            widget: string
+          - hint: 'Original text: Scam 2003, key: 55b6bc5'
+            label: Text
+            name: 55b6bc5
+            widget: string
+          - hint: 'Original text: Swantra Veer Savarkar , key: -5ba13899'
+            label: Text
+            name: '-5ba13899'
+            widget: string
+          - hint: 'Original text: Chhori 2 , key: 42cbf7eb'
+            label: Text
+            name: 42cbf7eb
+            widget: string
+          - hint: 'Original text: Bawaal , key: 4f9bd94c'
+            label: Text
+            name: 4f9bd94c
+            widget: string
+          - hint: 'Original text: Ghanghor Connection, key: 9093f6c'
+            label: Text
+            name: 9093f6c
+            widget: string
+          - hint: 'Original text: Farrey , key: 22f61bb1'
+            label: Text
+            name: 22f61bb1
+            widget: string
+          - hint: 'Original text: Shehar Lakhot , key: -6776c52e'
+            label: Text
+            name: '-6776c52e'
+            widget: string
+          - hint: 'Original text: Emergency, key: -27751a8f'
+            label: Text
+            name: '-27751a8f'
+            widget: string
+          - hint: 'Original text: Upcoming Projects, key: 719592fe'
+            label: Text
+            name: 719592fe
+            widget: string
+          - hint: 'Original text: Magic of Shiri, key: -2badc88b'
+            label: Text
+            name: '-2badc88b'
+            widget: string
+          - hint: 'Original text: (Jio), key: 256e761'
+            label: Text
+            name: '256e761'
+            widget: string
+          - hint: 'Original text: Tiku Weds Sheru, key: 83618f1'
+            label: Text
+            name: 83618f1
+            widget: string
+          - hint: 'Original text: ‍, key: 200d'
+            label: Text
+            name: 200d
+            widget: string
+          - hint: 'Original text: (Amazon), key: 6934555d'
+            label: Text
+            name: 6934555d
+            widget: string
+          - hint: 'Original text: Cadets, key: 77da983e'
+            label: Text
+            name: 77da983e
+            widget: string
+          - hint: 'Original text: (Voot), key: 4931e243'
+            label: Text
+            name: '4931e243'
+            widget: string
+          - hint: 'Original text: (Sony Liv), key: -2c64f31f'
+            label: Text
+            name: '-2c64f31f'
+            widget: string
+          - hint: 'Original text: Swantra Veer, key: 4223a0ca'
+            label: Text
+            name: 4223a0ca
+            widget: string
+          - hint: 'Original text: Savarkar, key: -77d9cebd'
+            label: Text
+            name: '-77d9cebd'
+            widget: string
+          - hint: 'Original text: Choori 2, key: 71324f2e'
+            label: Text
+            name: 71324f2e
+            widget: string
+          - hint: 'Original text: Bawaal, key: 762e5154'
+            label: Text
+            name: '762e5154'
+            widget: string
+          - hint: 'Original text: Ghanghor, key: -73fe78e'
+            label: Text
+            name: '-73fe78e'
+            widget: string
+          - hint: 'Original text: Connection, key: 48965afe'
+            label: Text
+            name: 48965afe
+            widget: string
+          - hint: 'Original text: Shehar, key: -6c74bbf7'
+            label: Text
+            name: '-6c74bbf7'
+            widget: string
+          - hint: 'Original text: Lakhot, key: -78c690e9'
+            label: Text
+            name: '-78c690e9'
+            widget: string
+          - hint: 'Original text: Hello! We are your Digital Squad, key: -7847e5ae'
+            label: Text
+            name: '-7847e5ae'
+            widget: string
+          - hint: "Original text: Are you looking for tailored VFX services? Look no further! We take projects right from the scripts, taking care of the minutest details of visual effects. We designate the right talent for every project and ensure to deliver them creatively, cost-effectively, and smoothly.\_, key: -282dfbbb"
+            label: Text
+            name: '-282dfbbb'
+            widget: text
+          - hint: 'Original text: Discover more about Whiteapple, key: -11834408'
+            label: Text
+            name: '-11834408'
             widget: string
           - hint: 'Original text: White Apple Media, key: -369fea39'
             label: Text
@@ -234,120 +435,239 @@ collections:
             label: Text
             name: 6b3683cc
             widget: string
-          - hint: 'Original text: Our journey, key: 462796cc'
+          - hint: 'Original text: We deliver awesomeness, key: -65a5c573'
             label: Text
-            name: 462796cc
+            name: '-65a5c573'
             widget: string
-          - hint: 'Original text: from concepts, key: 6d8c9ac1'
+          - hint: "Original text: White Apple offers one-stop solution, taking care of all your digital requirements. We offer post-production services, manage all your VFX needs, and also your digital and media requirements. With us, you will not have to run from pillar to post to execute your movies, music videos, corporate videos, ads, and everything else.\_, key: -5bf3fd7e"
             label: Text
-            name: 6d8c9ac1
+            name: '-5bf3fd7e'
+            widget: text
+          - hint: 'Original text: VFX Production, key: 394b8051'
+            label: Text
+            name: 394b8051
             widget: string
-          - hint: 'Original text: to Art, key: -33e218e2'
+          - hint: 'Original text: & Supervision, key: -7efab1f7'
             label: Text
-            name: '-33e218e2'
+            name: '-7efab1f7'
             widget: string
-          - hint: 'Original text: Explore our projects, key: 1516cf5b'
+          - hint: 'Original text: Post production, key: -55d63be7'
             label: Text
-            name: 1516cf5b
+            name: '-55d63be7'
+            widget: string
+          - hint: 'Original text: Management, key: b885463'
+            label: Text
+            name: b885463
+            widget: string
+          - hint: 'Original text: Editing, key: -d4f7288'
+            label: Text
+            name: '-d4f7288'
+            widget: string
+          - hint: 'Original text: Online Offline, key: -5e43eea'
+            label: Text
+            name: '-5e43eea'
+            widget: string
+          - hint: 'Original text: Design for, key: 74f8a787'
+            label: Text
+            name: 74f8a787
+            widget: string
+          - hint: 'Original text: Digital Media, key: -4bb54064'
+            label: Text
+            name: '-4bb54064'
+            widget: string
+          - hint: 'Original text: Animation, key: -45e2c49c'
+            label: Text
+            name: '-45e2c49c'
+            widget: string
+          - hint: 'Original text: 2D & 3D, key: -352a2e47'
+            label: Text
+            name: '-352a2e47'
+            widget: string
+          - hint: 'Original text: Storyboarding &, key: 1be85ed7'
+            label: Text
+            name: 1be85ed7
+            widget: string
+          - hint: 'Original text: Concept Design, key: -2dd59d4a'
+            label: Text
+            name: '-2dd59d4a'
+            widget: string
+          - hint: 'Original text: Sound/DI, key: 6bb885a5'
+            label: Text
+            name: 6bb885a5
+            widget: string
+          - hint: 'Original text: Assistance, key: -37393ca8'
+            label: Text
+            name: '-37393ca8'
+            widget: string
+          - hint: 'Original text: Studios/Partners, key: 36906d5d'
+            label: Text
+            name: 36906d5d
+            widget: string
+          - hint: 'Original text: networking, key: -1c81190c'
+            label: Text
+            name: '-1c81190c'
+            widget: string
+          - hint: 'Original text: Motion, key: -7648542a'
+            label: Text
+            name: '-7648542a'
+            widget: string
+          - hint: 'Original text: design, key: -4f963e42'
+            label: Text
+            name: '-4f963e42'
+            widget: string
+          - hint: 'Original text: Explore all our services, key: 7557cde'
+            label: Text
+            name: 7557cde
+            widget: string
+          - hint: 'Original text: Click to view, key: -1e18858e'
+            label: Text
+            name: '-1e18858e'
             widget: string
           - hint: 'Original text: SCROLL, key: -6e872533'
             label: Text
             name: '-6e872533'
+            widget: string
+          - hint: 'Original text: Whiteapple, key: -79aa3b0f'
+            label: Text
+            name: '-79aa3b0f'
+            widget: string
+          - hint: 'Original text: Media, key: 46c7fc4'
+            label: Text
+            name: 46c7fc4
+            widget: string
+          - hint: 'Original text: brings..., key: 787c49ad'
+            label: Text
+            name: 787c49ad
+            widget: string
+          - hint: "Original text: Your post-production requirements right from editing and animation to virtual events, graphics, and sound assistance will be taken care of us now. With tie-ups across the country, we are adept in superb promo and packaging, corporate edits, music video edits, 2D-3D animation videos, virtual event graphics, censor certification, and OTT deliverables, among others.\_, key: -3546582"
+            label: Text
+            name: '-3546582'
+            widget: text
+          - hint: 'Original text: Explore, key: 15309273'
+            label: Text
+            name: '15309273'
+            widget: string
+          - hint: 'Original text: Studio, key: -6bc46a0a'
+            label: Text
+            name: '-6bc46a0a'
+            widget: string
+          - hint: 'Original text: Studios, key: -cc8d6c3'
+            label: Text
+            name: '-cc8d6c3'
+            widget: string
+          - hint: 'Original text: brings.., key: c250aa1'
+            label: Text
+            name: c250aa1
+            widget: string
+          - hint: "Original text: With us, you do not need to worry about getting the complete film done. Right from storyboard to final execution, we bring your project to life. What more, we also ensure that there’s no escalation in the VFX costs. If required, we even bring expertise from overseas studios. Our specialty includes VFX breakdowns, budget planning, on-set VFX supervision, storyboarding, post-production supervision, among others.\_, key: 171bc301"
+            label: Text
+            name: 171bc301
+            widget: text
+          - hint: 'Original text: WhiteApple, key: -7b6d2b2f'
+            label: Text
+            name: '-7b6d2b2f'
+            widget: string
+          - hint: 'Original text: Care Foundation (CSR), key: -7068d9cf'
+            label: Text
+            name: '-7068d9cf'
+            widget: string
+          - hint: 'Original text: We , key: 152f2'
+            label: Text
+            name: 152f2
+            widget: string
+          - hint: 'Original text: care.., key: -5183ff6f'
+            label: Text
+            name: '-5183ff6f'
+            widget: string
+          - hint: "Original text: White Apple believes that everyone has a responsibility to act for society. When we work together with different pockets of society, we succeed as a community. Since our inception, we have inculcated these values in every person associated with us. This has energised the efforts of the Foundation to address challenges faced by the people. We create new opportunities through our program inspiring the engagement of citizens and improving public health.\_, key: 2b7150f0"
+            label: Text
+            name: 2b7150f0
+            widget: text
+          - hint: >-
+              Original text: The WhiteApple USP: Supporting Small Studios, key:
+              -145d1891
+            label: Text
+            name: '-145d1891'
+            widget: string
+          - hint: 'Original text: Our Teams, key: 4f853a2'
+            label: Text
+            name: 4f853a2
+            widget: string
+          - hint: 'Original text: Working at Whiteapple., key: 72fdbddf'
+            label: Text
+            name: 72fdbddf
+            widget: string
+          - hint: 'Original text: Our work, key: 391b85'
+            label: Text
+            name: 391b85
+            widget: string
+          - hint: 'Original text: Showreels & Projects, key: -579fbea8'
+            label: Text
+            name: '-579fbea8'
+            widget: string
+          - hint: 'Original text: Technology, key: 12b9612c'
+            label: Text
+            name: 12b9612c
+            widget: string
+          - hint: 'Original text: Services, key: 560f747e'
+            label: Text
+            name: 560f747e
+            widget: string
+          - hint: 'Original text: Our teams, key: 6bb43c2'
+            label: Text
+            name: 6bb43c2
+            widget: string
+          - hint: 'Original text: WhiteApple Media, key: 6321c7b5'
+            label: Text
+            name: 6321c7b5
+            widget: string
+          - hint: >-
+              Original text: (Post-Production Management Vertical), key:
+              -7ed4d828
+            label: Text
+            name: '-7ed4d828'
+            widget: string
+          - hint: 'Original text: WhiteApple Studios, key: 79ba38ee'
+            label: Text
+            name: 79ba38ee
+            widget: string
+          - hint: 'Original text: (VFX Management Vertical), key: -635fa8a'
+            label: Text
+            name: '-635fa8a'
+            widget: string
+          - hint: 'Original text: WhiteApple Care , key: 62933f00'
+            label: Text
+            name: 62933f00
+            widget: string
+          - hint: 'Original text: Foundation (CSR), key: 46932d22'
+            label: Text
+            name: 46932d22
             widget: string
           - hint: 'Original text: We are hiring, key: -656bbd91'
             label: Text
             name: '-656bbd91'
             widget: string
           - hint: >-
-              Original text: At WhiteApple, we aim to support small upcoming
-              studios and teams of freelancers who want to showcase their
-              creative strengths but are struggling to remain sustainable. We
-              believe that training new resources is a unique proposition for a
-              creative and business model. Traditionally, the industry has been
-              dominated by big names with strong reputations and cost
-              monopolies. However, the current trend places greater emphasis on
-              experience, talent, skills, and creativity. So whether you are a
-              small studio or a freelancer, you can look at the available
-              openings, or reach out to us to collaborate!, key: -94dcdfc
+              Original text: WhiteApple is home to visionaries, storytellers,
+              writers, executives, technologists, artists, and even a position
+              that only you can fill! Yes, we are open to all kinds of talents
+              who can be apart of our journey towards growth. We are always on
+              the lookout for passionate people in the areas of Editorial,
+              Visual Development, 3D Designs, Programming, Visual Effects and
+              Management, among others. We have also created programs for
+              mentoring emerging talent. We are all ears to your dream role in
+              the industry and the skills that you desire to contribute. Please
+              get in touch with us., key: fdfadcd
             label: Text
-            name: '-94dcdfc'
+            name: fdfadcd
             widget: text
           - hint: 'Original text: View our openings, key: 75b305ea'
             label: Text
             name: 75b305ea
             widget: string
-          - hint: 'Original text: Contact form, key: 5278c0e4'
+          - hint: 'Original text: About US, key: 645efc31'
             label: Text
-            name: 5278c0e4
-            widget: string
-          - hint: >-
-              Original text: This form uses grid for its layout. Adjust and
-              reorganize the divs inside the Form Grid to fit 1 or 2 grid
-              columns as needed., key: 142afba3
-            label: Text
-            name: 142afba3
-            widget: text
-          - hint: >-
-              Original text: Fields marked with an asterisk (*) are required.,
-              key: -2c493e9e
-            label: Text
-            name: '-2c493e9e'
-            widget: string
-          - hint: 'Original text: Name, key: 24eeab'
-            label: Text
-            name: 24eeab
-            widget: string
-          - hint: 'Original text: Email Address, key: -2b7010d0'
-            label: Text
-            name: '-2b7010d0'
-            widget: string
-          - hint: 'Original text: Phone Number, key: -55f81185'
-            label: Text
-            name: '-55f81185'
-            widget: string
-          - hint: >-
-              Original text: Thank you! Your submission has been received!, key:
-              5a0ea5a1
-            label: Text
-            name: 5a0ea5a1
-            widget: string
-          - hint: >-
-              Original text: Oops! Something went wrong while submitting the
-              form., key: -7c112e99
-            label: Text
-            name: '-7c112e99'
-            widget: string
-          - hint: 'Original text: Company, key: -64202ba3'
-            label: Text
-            name: '-64202ba3'
-            widget: string
-          - hint: 'Original text: How it works, key: -5f2415c3'
-            label: Text
-            name: '-5f2415c3'
-            widget: string
-          - hint: 'Original text: Pricing, key: 507137a6'
-            label: Text
-            name: 507137a6
-            widget: string
-          - hint: 'Original text: Docs, key: 20965b'
-            label: Text
-            name: 20965b
-            widget: string
-          - hint: 'Original text: Resources, key: 13ede05'
-            label: Text
-            name: 13ede05
-            widget: string
-          - hint: 'Original text: Blog post name list goes here, key: 381bea8b'
-            label: Text
-            name: 381bea8b
-            widget: string
-          - hint: 'Original text: See all resources >, key: 75d1c317'
-            label: Text
-            name: 75d1c317
-            widget: string
-          - hint: 'Original text: About, key: 3c2336d'
-            label: Text
-            name: 3c2336d
+            name: 645efc31
             widget: string
           - hint: 'Original text: Terms & Conditions, key: 4f912d2b'
             label: Text
@@ -357,9 +677,65 @@ collections:
             label: Text
             name: '-922d316'
             widget: string
+          - hint: 'Original text: Contact , key: -1df83be0'
+            label: Text
+            name: '-1df83be0'
+            widget: string
+          - hint: 'Original text: Company email, key: 15b1ba19'
+            label: Text
+            name: 15b1ba19
+            widget: string
+          - hint: 'Original text: Career email, key: 7c94a49a'
+            label: Text
+            name: 7c94a49a
+            widget: string
+          - hint: 'Original text: Contact Number, key: 6ea9f389'
+            label: Text
+            name: 6ea9f389
+            widget: string
+          - hint: 'Original text: Adress, key: 74a18a96'
+            label: Text
+            name: 74a18a96
+            widget: string
+          - hint: 'Original text: a, key: 61'
+            label: Text
+            name: '61'
+            widget: string
+          - hint: 'Original text: Production@Whiteapplellp.Com, key: 8a6c7ab'
+            label: Text
+            name: 8a6c7ab
+            widget: string
+          - hint: 'Original text: Support@Whiteapplellp.Com, key: 2bb24901'
+            label: Text
+            name: 2bb24901
+            widget: string
+          - hint: 'Original text: 022 - 49789137, key: -3808e11b'
+            label: Text
+            name: '-3808e11b'
+            widget: string
+          - hint: 'Original text: 202, Crescent Tower,, key: -278934ea'
+            label: Text
+            name: '-278934ea'
+            widget: string
+          - hint: 'Original text: Near Maurya Chambers,, key: 7df089a8'
+            label: Text
+            name: 7df089a8
+            widget: string
+          - hint: 'Original text: Off Veera Desai Rd, Andheri West, , key: 518f26b0'
+            label: Text
+            name: 518f26b0
+            widget: string
+          - hint: 'Original text: Mumbai, Maharashtra 400058, key: -594f18da'
+            label: Text
+            name: '-594f18da'
+            widget: string
           - hint: 'Original text: Copyright © 2021 Company name, key: -15d246ff'
             label: Text
             name: '-15d246ff'
+            widget: string
+          - hint: 'Original text: Bold, key: 1faea5'
+            label: Text
+            name: 1faea5
             widget: string
           - hint: >-
               Original text: This is some text inside of a div block., key:
@@ -367,9 +743,193 @@ collections:
             label: Text
             name: 7635fb4f
             widget: string
-          - hint: 'Original text: Bold, key: 1faea5'
+          - hint: "Original text: Cinema is the art of telling powerful stories.\_, key: -22f0eb5e"
             label: Text
-            name: 1faea5
+            name: '-22f0eb5e'
+            widget: string
+          - hint: >-
+              Original text: We at WhiteApple are passionate about cinema, key:
+              -3b998b7
+            label: Text
+            name: '-3b998b7'
+            widget: string
+          - hint: 'Original text: 2019, key: 1774e6'
+            label: Text
+            name: '1774e6'
+            widget: string
+          - hint: >-
+              Original text: Since our inception in 2019, we have strived to
+              present the magnificent art of storytelling by using powerhouse
+              technology. The ways of entertainment are constantly changing.
+              Thus, our focus remains on enhancing the content and giving it a
+              next-generation edge. We intensify the stories, making them
+              compatible with different platforms and devices. WhiteApple plays
+              the role of a catalyst for evolving the content and elevating the
+              overall experience. , key: 2392e690
+            label: Text
+            name: '2392e690'
+            widget: text
+          - hint: 'Original text: Our, key: 1372c'
+            label: Text
+            name: 1372c
+            widget: string
+          - hint: 'Original text: Ultimate, key: -652e478f'
+            label: Text
+            name: '-652e478f'
+            widget: string
+          - hint: 'Original text: Goal, key: 21f333'
+            label: Text
+            name: 21f333
+            widget: string
+          - hint: "Original text: Our ultimate goal is to usher in a new era altogether for the audience with every movie. With a strong network of partners for media production, post-production, VFX, creative services, and digital media, we are here to fill the gaps in media services. While we handle coordination, we give you ample space, time, and energy to focus on your creative prowess.\_, key: 656cd651"
+            label: Text
+            name: 656cd651
+            widget: text
+          - hint: 'Original text: The, key: 14851'
+            label: Text
+            name: '14851'
+            widget: string
+          - hint: 'Original text: USP:, key: 27e508'
+            label: Text
+            name: '27e508'
+            widget: string
+          - hint: 'Original text: Supporting Small Studios, key: 8174777'
+            label: Text
+            name: '8174777'
+            widget: string
+          - hint: >-
+              Original text: An amazing line of work is being produced around
+              the world, irrespective of the size of the studio. However,
+              managing and scaling infrastructure is a challenge for small and
+              mid-sized VFX studios. They need not only capital but also the
+              right talent to build their infrastructure. We team up with small
+              and upcoming studios and even struggling freelancers who find it
+              hard to remain sustainable in the industry. We have a network of
+              studios located in Serbia, Greece, Turkey, Denmark, Egypt, Italy,
+              Spain, Moscow, Poland, and many others. This concept has helped
+              strengthen our in-house team of 35-40 people to 500+ powerful
+              performers across the world. Our journey has been enriched by key
+              entrepreneurs across the globe. We fondly call them 'Keypreneurs'.
+              It is our belief that training and grooming new resources will
+              elevate the overall level of work. Our emphasis remains on
+              international collaborations focusing on sourcing experience,
+              talent, skills, and creativity. By offering these studios ample
+              exposure, we help them garner good work and fame and expand their
+              reach. We bridge the gap between international talent and the
+              needs of the clients, ensuring that the quality of the end product
+              is incomparable., key: -51254f54
+            label: Text
+            name: '-51254f54'
+            widget: text
+          - hint: 'Original text: Technology at Whiteapple, key: 2abb9b0a'
+            label: Text
+            name: 2abb9b0a
+            widget: string
+          - hint: "Original text: Cinema has evolved at a lightning speed. The technology used in films has changed over the years owing to developments in projection, photography, and optics. At WhiteApple, technologies and artists work in tandem to advance the art and science of cinema. Our team takes care of all the needs of the clients, including graphics, advertising, conceptualising, or VFX. Whether it is to integrate AI with multiple software or to automate simple tools, we ensure that the process across the line is smooth, enhancing the efficiency of the project. We are excited about using new tools and techniques to bring about a change in the art of storytelling. With our discoveries, we have been pushing the boundaries of cinema and filmmaking.\_, key: 32e72b3"
+            label: Text
+            name: 32e72b3
+            widget: text
+          - hint: 'Original text: xyz@email.com, key: -9f2c9b8'
+            label: Text
+            name: '-9f2c9b8'
+            widget: string
+          - hint: 'Original text: +987766552819, key: 1e956b38'
+            label: Text
+            name: 1e956b38
+            widget: string
+          - hint: 'Original text: Media brings..., key: -1d22f7af'
+            label: Text
+            name: '-1d22f7af'
+            widget: string
+          - hint: 'Original text: Our Work, key: 2a8fa5'
+            label: Text
+            name: 2a8fa5
+            widget: string
+          - hint: 'Original text: Explore some of our, key: -129c97fe'
+            label: Text
+            name: '-129c97fe'
+            widget: string
+          - hint: "Original text: amazing VFX\_and Digital projects, key: -13c6dada"
+            label: Text
+            name: '-13c6dada'
+            widget: string
+          - hint: 'Original text: Care Foundation, key: -fba6ede'
+            label: Text
+            name: '-fba6ede'
+            widget: string
+          - hint: >-
+              Original text: WhiteApple Care Foundation (CSR) WhiteApple
+              believes that everyone has a responsibility to act for society.
+              When we work together with different pockets of society, we
+              succeed as a community. Since our inception, we have inculcated
+              these values in every person associated with us. This has
+              energised the efforts of the Foundation to address challenges
+              faced by the people. We create new opportunities through our
+              program while building to expand economic opportunities, inspiring
+              the engagement of citizens, and improving public health. Skill
+              Development Program We invite passionate youths from
+              underprivileged communities who do not have any background in
+              computers yet desire to contribute to this field. We focus on
+              developing their skill set to make them employable at live
+              production studios. Our mission is to help them earn a livelihood
+              and status in the society. Child Nutrition Program There's no way
+              a hungry child can learn. We are humbled to support the health and
+              wellbeing of little children around us. Our mission is to fight
+              hunger by providing healthy and nutritious meals to children.
+              Women's Health & Hygiene Program Through several initiatives, we
+              are trying to improve the well-being, health, and nutritional
+              status of women in the society. We spread awareness about
+              menstrual health management and curbing unhealthy practices.
+              Underprivileged Education Program We believe that education
+              becomes the vehicle that helps poor families get out of poverty.
+              Our aim is to equip children from underprivileged backgrounds with
+              literacy and right skills. This helps them become employable and
+              give financial relief to their families. Elderly Rehabilitation
+              Program With rehabilitation of seniors, we wish to improve their
+              quality of life. Our mission is to offer them medical facilities
+              and healthcare at the right time. We have been offering them
+              nutritious food and financial relief with the objective of making
+              them independent., key: 2f5a533a
+            label: Text
+            name: 2f5a533a
+            widget: text
+          - hint: "Original text: At WhiteApple Media, we take care of post-production requirements from editing and animation to virtual events, graphics, and sound assistance. Ours is a dedicated unit for Post Production Management Services. With multiple supervisors in-house we have a tie-up with facilities across the country to get you cost-effective deals for Sound, DI, Packaging, Edits, Titles, and others. We are adept in putting together state-of-the-art promo and packaging for clients. We offer corporate edits, digital media, documentary edits, music video edits, event graphics, 2D-3D animation videos, virtual event graphics, censor certification, sound/DI assistance, and film and OTT deliverables, among others.\_, key: -2b25ff1b"
+            label: Text
+            name: '-2b25ff1b'
+            widget: text
+          - hint: 'Original text: Censor, key: 7817b5ea'
+            label: Text
+            name: 7817b5ea
+            widget: string
+          - hint: 'Original text: Certification, key: 934849a'
+            label: Text
+            name: 934849a
+            widget: string
+          - hint: 'Original text: Virtual Event, key: -da7cefb'
+            label: Text
+            name: '-da7cefb'
+            widget: string
+          - hint: 'Original text: Design, key: 79ceadde'
+            label: Text
+            name: 79ceadde
+            widget: string
+          - hint: 'Original text: White Apple Media Projects, key: -120292d'
+            label: Text
+            name: '-120292d'
+            widget: string
+          - hint: >-
+              Original text: Click View more similar projects in Showcase, key:
+              -4315721
+            label: Text
+            name: '-4315721'
+            widget: string
+          - hint: "Original text: Right from storyboard to final execution, we bring your project to life. We are on board with you, right from the beginning. Every penny spent on the film needs to be taken care of and with this mindset, our team of VFX Producers and Supervisors will help you break the script into the minutest of the VFX. This helps you estimate correctly with the approach to work efficiently, balancing between life and VFX. With our several years of industry experience, we ensure that there’s no escalation in the VFX costs and that the project is well-planned during the shoot itself. We channelise our network of VFX partners from across the globe and designate the apt one based on the type of work. With us, you do not need to worry about getting the complete film done. If required, we bring expertise from overseas studios without charging you a premium and yet ensuring quality results. At WhiteApple Studios, we offer VFX breakdowns, budget planning, on-set VFX supervision, creative ideation, data management, resource management, studios/partners networking, concept design, art direction, motions design, title designs, storyboarding, infographic design, pre-visualisation, execution assistance 2D or 3D, postproduction supervision, among others.\_\_, key: -78d738bd"
+            label: Text
+            name: '-78d738bd'
+            widget: text
+          - hint: 'Original text: White Apple Studo, key: -36444c5e'
+            label: Text
+            name: '-36444c5e'
             widget: string
       - label: Links
         name: links
@@ -379,9 +939,43 @@ collections:
             name: title
             widget: hidden
             default: Links
+          - hint: 'Original link: /, key: 2f'
+            label: Link
+            name: 2f
+            widget: string
           - hint: 'Original link: #, key: 23'
             label: Link
             name: '23'
+            widget: string
+          - hint: 'Original link: /about-us-copy/, key: 161d039a'
+            label: Link
+            name: 161d039a
+            widget: string
+          - hint: 'Original link: /showcase/, key: 68392ad3'
+            label: Link
+            name: 68392ad3
+            widget: string
+          - hint: 'Original link: #Hero-Video, key: 12bcf14b'
+            label: Link
+            name: 12bcf14b
+            widget: string
+          - hint: 'Original link: /media/, key: 76036dba'
+            label: Link
+            name: 76036dba
+            widget: string
+          - hint: 'Original link: /studios/, key: -579c045f'
+            label: Link
+            name: '-579c045f'
+            widget: string
+          - hint: 'Original link: /csr/, key: 2c50f1c'
+            label: Link
+            name: 2c50f1c
+            widget: string
+          - hint: >-
+              Original link: #h"ps://www.youtube.com/channel/WhiteAppleStudios,
+              key: 70f5ae16
+            label: Link
+            name: 70f5ae16
             widget: string
       - label: Images
         name: images
@@ -470,7 +1064,306 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 317740d9
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 29dc789b
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 1618e7df
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: i3f896c03
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 3789a93e
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 1faac23f
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-343bb24f'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 2cf2cf82
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3edf012a'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3e0bb602'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-68960a26'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 7661984a
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-6c13d4f2'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-19f4f6a3'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-63226075'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3cf5ac93'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1259093a'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-5ad1e4ad'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-104a56fa'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-30d81ed6'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-246a71d2'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '43399434'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-19a34472'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-7aae1e3c'
             widget: object
             fields:
               - name: url
@@ -522,7 +1415,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: eaf0e49
+            name: '-38b47fad'
             widget: object
             fields:
               - name: url
@@ -535,7 +1428,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 2caf6d0f
+            name: '-1d398be'
             widget: object
             fields:
               - name: url
@@ -548,7 +1441,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-3cc727d4'
+            name: '-7bee731e'
             widget: object
             fields:
               - name: url
@@ -561,7 +1454,59 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 2f3a2981
+            name: 9f6b282
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-702427de'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 15c0fdc2
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-6459dc9e'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-73a85b90'
             widget: object
             fields:
               - name: url
@@ -587,6 +1532,58 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-76324587'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 218b4902
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-5083e560'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 71dea21f
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: 1b70054c
             widget: object
             fields:
@@ -600,7 +1597,202 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-76324587'
+            name: '37e37690'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 4b5242ee
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 84efe4c
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 5418d0f9
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 48c36ca1
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 52f76551
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 672a44c8
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1b9983d3'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-30537adb'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-72ca668a'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: af43d63
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 2b700fdc
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1fe4132d'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 1f94cdd2
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 3a0a15c9
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 504a6fb2
             widget: object
             fields:
               - name: url

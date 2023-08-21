@@ -1,4 +1,8 @@
 {
+  "43399434": {
+    "url": "/assets/images/download.jpeg",
+    "alt": ""
+  },
   "6daf3b6b": {
     "url": "/assets/images/02-prebuild-layouts.jpg",
     "alt": ""
@@ -23,8 +27,96 @@
     "url": "/assets/images/salaam-venky.jpeg",
     "alt": ""
   },
+  "317740d9": {
+    "url": "/assets/images/film.png",
+    "alt": ""
+  },
+  "29dc789b": {
+    "url": "/assets/images/csr.jpg",
+    "alt": ""
+  },
+  "1618e7df": {
+    "url": "/assets/images/white-apple-studios.jpg",
+    "alt": ""
+  },
+  "i3f896c03": {
+    "url": "/assets/images/media.jpg",
+    "alt": ""
+  },
+  "3789a93e": {
+    "url": "/assets/images/image-background_1image-background.webp",
+    "alt": ""
+  },
+  "1faac23f": {
+    "url": "/assets/images/csr-1.jpg",
+    "alt": ""
+  },
   "-343bb24f": {
     "url": "/assets/images/logo-apple-1.png",
+    "alt": ""
+  },
+  "2cf2cf82": {
+    "url": "/assets/images/laxmi-bomb-sketch.jpg",
+    "alt": ""
+  },
+  "-3edf012a": {
+    "url": "/assets/images/laxmi-bomb-ori.jpg",
+    "alt": ""
+  },
+  "-3e0bb602": {
+    "url": "/assets/images/apaharan-sketch.jpg",
+    "alt": ""
+  },
+  "-68960a26": {
+    "url": "/assets/images/apaharan-ori.jpg",
+    "alt": ""
+  },
+  "7661984a": {
+    "url": "/assets/images/hathi-sketch.jpg",
+    "alt": ""
+  },
+  "-6c13d4f2": {
+    "url": "/assets/images/hathi-ori.jpg",
+    "alt": ""
+  },
+  "-19f4f6a3": {
+    "url": "/assets/images/cartel-thumb.jpg",
+    "alt": ""
+  },
+  "-63226075": {
+    "url": "/assets/images/cartel-sketch.jpg",
+    "alt": ""
+  },
+  "-3cf5ac93": {
+    "url": "/assets/images/cartel-ori.jpg",
+    "alt": ""
+  },
+  "-1259093a": {
+    "url": "/assets/images/raangbaz-thumb.jpg",
+    "alt": ""
+  },
+  "-5ad1e4ad": {
+    "url": "/assets/images/rangbaz-sketch.jpg",
+    "alt": ""
+  },
+  "-104a56fa": {
+    "url": "/assets/images/rangbaaz-ori.jpg",
+    "alt": ""
+  },
+  "-30d81ed6": {
+    "url": "/assets/images/angrezi-sketch.jpg",
+    "alt": ""
+  },
+  "-246a71d2": {
+    "url": "/assets/images/angrezi-ori.jpg",
+    "alt": ""
+  },
+  "-19a34472": {
+    "url": "/assets/images/pix-1-copy-of-vfxteamthree.jpg",
+    "alt": ""
+  },
+  "-7aae1e3c": {
+    "url": "/assets/images/images.jpeg",
     "alt": ""
   },
   "-1fe92d63": {
@@ -39,32 +131,124 @@
     "url": "/assets/images/1704-flower-doodle-gradient.gif",
     "alt": ""
   },
-  "eaf0e49": {
-    "url": "/assets/images/gandhi-sketch.png",
+  "-38b47fad": {
+    "url": "/assets/images/card-plus.svg",
     "alt": ""
   },
-  "2caf6d0f": {
-    "url": "/assets/images/laxmi-sketch.png",
+  "-1d398be": {
+    "url": "/assets/images/cell-background-1_1cell-background-1.webp",
     "alt": ""
   },
-  "-3cc727d4": {
-    "url": "/assets/images/antim.png",
+  "-7bee731e": {
+    "url": "/assets/images/cell-background-2_1cell-background-2.webp",
     "alt": ""
   },
-  "2f3a2981": {
-    "url": "/assets/images/venky-sketch.png",
+  "9f6b282": {
+    "url": "/assets/images/cell-background-3_1cell-background-3.webp",
+    "alt": ""
+  },
+  "-702427de": {
+    "url": "/assets/images/cell-background-4_1cell-background-4.webp",
+    "alt": ""
+  },
+  "15c0fdc2": {
+    "url": "/assets/images/cell-background-5_1cell-background-5.webp",
+    "alt": ""
+  },
+  "-6459dc9e": {
+    "url": "/assets/images/cell-background-6_1cell-background-6.webp",
+    "alt": ""
+  },
+  "-73a85b90": {
+    "url": "https://uploads-ssl.webflow.com/647f69521b16ed3be0ca202f/6481047d1919494a7dfe8d82_Cell%20Background%207.jpg",
     "alt": ""
   },
   "23a73adb": {
     "url": "https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124ac15112aad5_twitter%20small.svg",
     "alt": ""
   },
+  "-76324587": {
+    "url": "https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124a51bf12aae9_facebook%20small.svg",
+    "alt": ""
+  },
+  "218b4902": {
+    "url": "/assets/images/cell-background-7_1cell-background-7.webp",
+    "alt": ""
+  },
+  "-5083e560": {
+    "url": "/assets/images/david-laroche-interview-marc-simoncini.jpg",
+    "alt": "David Laroche interview avec Marc Simoncini, fondateur de Meetic"
+  },
+  "71dea21f": {
+    "url": "/assets/images/david-laroche-nombre-de-vue.jpg",
+    "alt": "David Laroche nombre de vues sur sa chaine YouTube"
+  },
   "1b70054c": {
     "url": "https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124a389912aad8_linkedin%20small.svg",
     "alt": ""
   },
-  "-76324587": {
-    "url": "https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124a51bf12aae9_facebook%20small.svg",
+  "37e37690": {
+    "url": "/assets/documents/bnner_1.mp4",
+    "alt": ""
+  },
+  "4b5242ee": {
+    "url": "https://uploads-ssl.webflow.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg",
+    "alt": "Pause video"
+  },
+  "84efe4c": {
+    "url": "https://uploads-ssl.webflow.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg",
+    "alt": "Play video"
+  },
+  "5418d0f9": {
+    "url": "/assets/images/right-arrow.png",
+    "alt": ""
+  },
+  "48c36ca1": {
+    "url": "/assets/images/laxmi-bomb-001.jpg",
+    "alt": ""
+  },
+  "52f76551": {
+    "url": "/assets/images/a-simple-murder-potrait.jpg",
+    "alt": ""
+  },
+  "672a44c8": {
+    "url": "/assets/images/a-simple-murder-ori.jpg",
+    "alt": ""
+  },
+  "-1b9983d3": {
+    "url": "/assets/images/angrezi-medium-poster.jpg",
+    "alt": ""
+  },
+  "-30537adb": {
+    "url": "/assets/images/hathi-mere-sathi-potrait.jpg",
+    "alt": ""
+  },
+  "-72ca668a": {
+    "url": "/assets/images/cartel-potrait.jpg",
+    "alt": ""
+  },
+  "af43d63": {
+    "url": "/assets/images/apaharan-potrait.jpg",
+    "alt": ""
+  },
+  "2b700fdc": {
+    "url": "/assets/images/clutch-potrait.jpg",
+    "alt": ""
+  },
+  "-1fe4132d": {
+    "url": "/assets/images/clutch-ori.jpg",
+    "alt": ""
+  },
+  "1f94cdd2": {
+    "url": "/assets/images/dear-father-potrait.jpg",
+    "alt": ""
+  },
+  "3a0a15c9": {
+    "url": "/assets/images/dear-father-ori.jpg",
+    "alt": ""
+  },
+  "504a6fb2": {
+    "url": "/assets/documents/1920x620-banner-for-web-final.mp4",
     "alt": ""
   }
 }
